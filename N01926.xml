@@ -113,8 +113,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:002283_0000_0FDAE3E18AE031E8"/>
-            <pb facs="tcp:002283_0001_0FDAE3E2773095F8" rendition="simple:additions"/>
+            <pb facs="unknown:002283_0000_0FDAE3E18AE031E8"/>
+            <pb facs="unknown:002283_0001_0FDAE3E2773095F8"
+                rendition="simple:additions"/>
             <p>A DISCOURSE, SHEWING, That the real firſt Cauſe of the Straits and Diffi<g ref="char:EOLhyphen"/>culties of this Province of the <hi>Maſſachuſetts Bay,</hi> is it's <hi>Extravagan<g ref="char:EOLhyphen"/>cy,</hi> &amp; not <hi>Paper Money</hi>: AND ALSO What is a ſafe Foundation to raiſe a Bank of Credit on, and what not, (with ſome Remarks on <hi>Amicus Patriae,</hi>) &amp; a Projection for Emitting of more Bills of Credit on the Province. <hi>By Way of DIALOGUE,</hi> between a Repreſentative in ſaid Province, and a certain Gentleman, concerned for the Good of his native Country.</p>
             <p>
                <hi>By</hi> PHILOPATRIA.</p>
@@ -124,14 +125,14 @@
       <body>
          <div type="dialogue">
             <pb n="2"
-                facs="tcp:002283_0002_0FDAE3E3F8D07EA0"
+                facs="unknown:002283_0002_0FDAE3E3F8D07EA0"
                 rendition="simple:additions"/>
             <head>A <hi>Dialogue,</hi> &amp;c.</head>
             <p>
                <hi>Repreſentative.</hi> March 14. 1720, 21.</p>
             <p>SIR, I hear that our General Court is to ſit the next Wedneſday, and am very much concern'd about what the Reſult of this Seſſions will be. For the whole Province ſeems to be di<g ref="char:EOLhyphen"/>vided into two Parties; one of them is continually exclaiming with a grievous and bitter Cry, <hi>Our Paper Money! Our Paper money</hi>! it is this that has brought upon us the direful Retinue of fatal Evils that we are ſtooping under, and a ſucceſſion of it, (if emitted) will not fail to draw a ſable Curtain over the laſt Appearance of our Happineſs, and ſhut up every Glade of light and Proſperity, to this already miſerable Province. The other is alſo in<g ref="char:EOLhyphen"/>ceſſantly mourning, with a Cry no leſs audible and bitter, <hi>Our want of a Medium of Trade, it is this that will ruin us</hi>; The Silver and Gold is irrecove<g ref="char:EOLhyphen"/>rably gone; and Bills of Credit are grievouſly ſcanty; and unleſs our Government will ſupply us with more of theſe, the Want of them will open to us the darkeſt Scene, that ever this Province ſaw; will cut off from us every thing that may ſeem proſpe<g ref="char:EOLhyphen"/>rous, and without fail finiſh our deſtruction, by bringing us under a ſeries of inextricable ſtraits and Adverſities.</p>
             <p>
-               <pb n="3" facs="tcp:002283_0003_0FDAE3E576D8D520"/>So that I think the great Queſtion every where is. <hi>Who will ſhew us Tokens for Good? Where is the g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="3" facs="unknown:002283_0003_0FDAE3E576D8D520"/>So that I think the great Queſtion every where is. <hi>Who will ſhew us Tokens for Good? Where is the g<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>nuine Son, that will take this Province by the Hand, and lead her into the Way of Proſperity.</hi>
             </p>
@@ -171,7 +172,7 @@
                </gap>ur ſtraits is our Extravagant Conſumption of <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>oreign Commoditys; and if ſo, the projecting a
-<pb n="4" facs="tcp:002283_0004_0FDAE3CF150B0238"/>
+<pb n="4" facs="unknown:002283_0004_0FDAE3CF150B0238"/>
 Medium to ſupport and enliven our Trade, will be no more than a Cordial to us languiſhing under a mortal diſeaſe.</p>
             <p>
                <hi>R.</hi> Your Sentiments here ſeem to be ſomething different, from what has been publiſhed by others, concerning theſe affairs, I know that through the Country our <hi>Paper money</hi> is generally look'd upon by People as the faulty Cauſe of all our ſtraits; For this, ſay they has enabled our Merchants to expe<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -201,7 +202,7 @@ Medium to ſupport and enliven our Trade, will be no more than a Cordial to us l
             <p>Grandure ſo naturally ſprings up among us, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> every one is ready (I ſuppoſe by their managements,
-<pb n="5" facs="tcp:002283_0005_0FDAE3E9ECA33F00"/>
+<pb n="5" facs="unknown:002283_0005_0FDAE3E9ECA33F00"/>
 to fancy themſelves the progenie of the <hi>rich and honourable.</hi> This ſeems to be the unquenchable deſire of every one. We all ſcrable after it as naturally, and with as much Reſolution and Shuffling Sedulity as heavy bodies to the Centre of Gravity. Our Gentry, yea our Commonalty muſt be dreſs'd up like Nobles, nothing ſhort of the fineſt of Broad-Cloths, Silks, &amp;c. will ſerve for their Apparel, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>utlandiſh ſlaves almoſt in endleſs order muſt wait upon all their Entertainments. So that however we <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -237,7 +238,7 @@ to fancy themſelves the progenie of the <hi>rich and honourable.</hi> This ſee
             <p>Not that I am going to ſuggeſt, that fine Broad-cloths, ſilks, &amp;c. are not to be improv'd in New-England; no, Perſons of publick note, and Truſt, and plentiful Eſtates, may every where in Juſtice and Modeſty, be allowed the uſe of them, it is prop<g ref="char:EOLhyphen"/>erly for their Service that ſuch are made. <hi>Soft Rai<g ref="char:EOLhyphen"/>ment is for ſuch as are in Kings Houſes</hi>; And the <hi>Prieſts Garments</hi> were, by Gods Appointment, to be made <hi>for Glory and for Beauty.</hi> Exod. 28.2.40. But the Miſery and Iniquity of it is, the inferiour ſort of People will <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>e clad in as coſtly Attire as the
-<pb n="6" facs="tcp:002283_0006_0FDAE3F777692A58"/>
+<pb n="6" facs="unknown:002283_0006_0FDAE3F777692A58"/>
 Rich and Honourable. How often do we ſee Men, who have nothing but juſt a rational Soul (and ſcarcely that, as one would think by their Manage<g ref="char:EOLhyphen"/>ments) to advance them above any of their fellow Creatures, dreſſing themſelves in ſilk ſtockings, and almoſt the very fineſt of Broad Cloths, or ſilk Camlets? And ordinary Tradeſmen's Wives (tho' the whole Family depends upon the daily Labour of the Husband for Subſiſtence) ſhall be dreſſed in Silks and Sattens and that not only on high holy-days, but in their or<g ref="char:EOLhyphen"/>dinary Viſitings. Inferiour Apprentices and Servants, having juſt obtained their Freedom ſhall be dreſſed like <hi>Lords of the Mannours</hi>; &amp; in publick Congreſſes were it not for the different Seats they fit in, <hi>one would ſcarce know</hi> Joan <hi>from</hi> my Lady <hi>by Daylight.</hi> Thus often are the moſt diſtant Indies ſearched with the greateſt coſt and peril, for the fineſt Sattins, Silks or at leaſt Chences and Callicoes to fit up thouſands of Women, who really are not worthy to be advanced one Ace above the Dunghill for any one dignifying Quality or Circumſtance!</p>
             <p>Theſe things I mention as the cauſe of our preſen<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -248,7 +249,7 @@ Rich and Honourable. How often do we ſee Men, who have nothing but juſt a rati
             <p>In ſhort, might not I have noted for the Reaſon there<g ref="char:EOLhyphen"/>of, <hi>Pride and abundance of Idleneſs.</hi> Theſe ſins of <hi>Sodom,</hi> which have ſo far prevailed in this Province, in our great Towns eſpecially? The Faſhion that Tyranneſs of Fools has gained the Aſcendant among us, and drags the Age along in theſe unnaccountable <hi>dear</hi> Follys.</p>
             <p>Now Sir, if it were a thing poſſible by any means to open Peoples Eyes, and give them a clear view of theſe things in their native Colours, I ſhould think that would be moſt ſerviceable to the Publick.</p>
             <p>
-               <pb n="7" facs="tcp:002283_0007_0FDAE3EAC4CDACE0"/>
+               <pb n="7" facs="unknown:002283_0007_0FDAE3EAC4CDACE0"/>
                <hi>Rep.</hi> I believe your Thoughts concerning our Ex<g ref="char:EOLhyphen"/>travagancys are very juſt; And I alſo think, that nothing but pure neceſſity will ever retrench them; and however Serviceable a plain detection of them might be, yet I rather think that the greateſt Service that can be done the Province at this Juncture, is fairly, coolly, and plainly to diſcuſs thoſe great queſt<g ref="char:EOLhyphen"/>ions, <hi>What method ſhall we take at preſent to help us out of our amazing straits and difficulties? Will it be for the Advantage of this Province, to make more Pa<g ref="char:EOLhyphen"/>per money or not?</hi> queſtions truly weighty and moving!</p>
             <p>You have ſeen the wonders, the almoſt Miracles which our <hi>paper Bills</hi> have already wrought, &amp; will yet naturally bring forth, if we (the Legiſlators) will but give them a being by our powerful <hi>Fiat</hi>; as theſe things have been lately ſet before your Eyes by <hi>Amicus Patriae.</hi>
             </p>
@@ -271,7 +272,7 @@ Rich and Honourable. How often do we ſee Men, who have nothing but juſt a rati
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>tances you know are ſuch as will be neither greatly
-<pb n="8" facs="tcp:002283_0008_0FDAE3F901E31FB0"/>
+<pb n="8" facs="unknown:002283_0008_0FDAE3F901E31FB0"/>
 hurt or advanced by the emitting or witholding more Bills, any further than a publick Good or evil affects private Perſons, and this will help you to believe that what is here attempted by me has no private View at all.</p>
             <p>And now in debating the Queſtion propoſed, that I may ſhew you my mind <hi>in Plain,</hi> I will lead you by perſpicuous and eaſy ſteps, as well as may be proporti<g ref="char:EOLhyphen"/>oned to gain my Point.</p>
             <p>Here then I premiſe, that as one Member of the Body cannot, ſo neither can one Perſon, Family, State or Country, ſay to another, <hi>I have no need of thee</hi>; But Trade, or the Exchange of one Commodity for another (which cannot be carried on without ſome ſuitable Medium of Exchange) is needful to the well being of every People. Theſe things, I ſuppoſe will be granted by a general Suffrage.</p>
@@ -283,7 +284,7 @@ hurt or advanced by the emitting or witholding more Bills, any further than a pu
                   <desc>•</desc>
                </gap>
                <g ref="char:EOLunhyphen"/>ſelf
-<pb n="9" facs="tcp:002283_0009_0FDAE3EC388B3C28"/>
+<pb n="9" facs="unknown:002283_0009_0FDAE3EC388B3C28"/>
 but the Foundation of its Credit, is the Bank it is raiſed upon; and every one who receives it doth ſo, not for its own ſake, but for the ſake of the <hi>Fund.</hi> And if the <hi>Fund</hi> or <hi>Bank</hi> be Moveables, ſuch as Gold, Silver, &amp;c. then this kind of Medium is the moſt valuable, as being not of a waſtful nature, and moſt ſafe and eaſy of Carriage; and then if all the <hi>Notes</hi> of a Country be gone, and they cannot redeem them, the worſt that can be is, he that has them muſt take the Fund they were raiſed upon, and the Country begin anew. But if the Lands, the real Eſtates of a Country, be the Fund to ſupport the Credit of its <hi>Notes</hi> (as is the Caſe of this Province reſpecting our paper Money) it is then a moſt dangerous Medium. For if their <hi>Notes</hi> be gone, and they cannot redeem them, then the beſt that can be is, they who have the Notes or Bills muſt take the Land to make good their Credit; and upon what Bottom will the Country ſtand then?</p>
             <p>This thought ſeems enough to ſtrike through the Soul of every generous Freeholder.</p>
             <p>And from theſe Conſiderations I conclude,</p>
@@ -292,7 +293,7 @@ but the Foundation of its Credit, is the Bank it is raiſed upon; and every one 
             <p>If the prudence and Induſtry of a People, be ſuch, that they will conſtantly prepare, either of the produce of, or Manufactures performed in their own Country, for Exporta<g ref="char:EOLhyphen"/>tion in ſuch Plenty, as that the value of them may be more than ſufficient, to purchaſe every thing that they want from abroad, to conſume among themſelves; then the Overplus of their value, will be conſtantly drawing that which is uſed by the Traders for a Medium of Exchange, and make it plenty among them. And the contrary Qualifications in any Peo<g ref="char:EOLhyphen"/>ple, ſc. Idleneſs and Illhusbandry, will always bring forth the contrary effect, ſcil. a ſcarcity of the Medium of Exchange among them.</p>
             <p>For if the Import of a Country be more than the Export, (it is as plain as that two and two will make four,) that the Medium of Exchange, muſt go to make up the Ballance.</p>
             <p>And here I am obliged to diſſent from the wonderful Doctrine ſcattered forth by <hi>Amicus Patriae,</hi> "That the Merchants hold the Helm, and are principle Steerſmen in
-<pb n="10" facs="tcp:002283_0010_0FDAE3FA773AFE08"/>
+<pb n="10" facs="unknown:002283_0010_0FDAE3FA773AFE08"/>
 the common Affairs of Temporal Intereſt and Profit. D<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>dle. pag. 1. And that the advancement of a Country's Wealth &amp;c wholly depends upon Trading, as he ſeems to urge, p. 18. where alſo to prove his Doctrine by an undeniable Evidence, he tells us that "Tyrus was but a naked Rock ſpread out into the S<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -316,7 +317,7 @@ the common Affairs of Temporal Intereſt and Profit. D<gap reason="illegible" re
             <p>
                <hi>Either it's Trade muſt be carried on by Barter; or its Lands uſed to ſupply it with a Medium of Exchange.</hi> The Dis<g ref="char:EOLhyphen"/>junction, I think, can't be deny'd; for if the Moveables of a Country will not ſupply it with a Medium, ſome other way muſt be found out, or Trade will utterly ſink: But there can be no other way ſuppoſed than either,</p>
             <p n="1">
-               <pb n="11" facs="tcp:002283_0011_0FDAE3EF45EF4D68"/>1. <hi>To carry it on by Barter,</hi> (which I ſuppoſe to be always attended with many very burthenſome Circumſtances in every Place, and for many reaſons wholly impracticable in this Province.) Or,</p>
+               <pb n="11" facs="unknown:002283_0011_0FDAE3EF45EF4D68"/>1. <hi>To carry it on by Barter,</hi> (which I ſuppoſe to be always attended with many very burthenſome Circumſtances in every Place, and for many reaſons wholly impracticable in this Province.) Or,</p>
             <p n="2">2. <hi>That the real Eſtates or Lands of a Country be uſed to ſupply it with a Medium of Exchange</hi>; i. e. <hi>by being made a</hi> Fund <hi>for a Bank of Credit.</hi> Every Medium of Exchange muſt carry ſo much with it, as is ſufficient to ſatisfy the Receiver, that what he receives is as valuable as that which he parts with, and if the <hi>Medium</hi> be a Bill of Credit, there muſt be ſome <hi>Foundation</hi> of it's Credit, to ſatisfy him that he ſhall certainly have, as the appointed time, that which is thereby engaged. And hence,</p>
             <p n="4">4. <hi>When a Country overtrades it ſelf, its Medium of Ex<g ref="char:EOLhyphen"/>change belongs to its Creditors abroad; and therefore it is a moſt dangerous thing to improve the Lands of any Country to ſupply it with a Medium of Exchange. It is a means never to be uſed but in the laſt Extremity.</hi>
             </p>
@@ -329,7 +330,7 @@ the common Affairs of Temporal Intereſt and Profit. D<gap reason="illegible" re
             <p>
                <hi>Rep.</hi> But why cannot we in this <hi>Provinoe,</hi> notwithſtanding our low Ebb, emit Bills on ſuch a Foundation as that they may be equal with Money, as <hi>Amicus Patriae</hi> tells us the Bills are at <hi>Venice, Holland,</hi> and <hi>New York,</hi> in all which Places the <hi>Bank Bills</hi> are kept in Credit, as he ſays, pag. 50, 51, only by their being prudently managed by the Merchants; and then all the buſineſs in our Province, which is now almoſt dead, might be carryed on in a very lively manner.</p>
             <p>
-               <pb n="12" facs="tcp:002283_0012_0FDAE3FD80D91250"/>
+               <pb n="12" facs="unknown:002283_0012_0FDAE3FD80D91250"/>
                <hi>Gent.</hi> It is a piece of grand Folly or Sophiſtry, to com<g ref="char:EOLhyphen"/>pare our Bills of Credit to thoſe of <hi>Venice, Holland,</hi> or any other place, where they have a Bank of Gold, Silver, &amp;c. to ſupport the Credit of them, when we have nothing but our real Eſtates to give Credit and Currency to ours.</p>
             <p>As to the Bills of <hi>Venice, Amicus Patriae</hi> hiſelf tells us pag. 42. <q>That when the Bank was erected, there was the ſame Quantity of Money brought into the Treaſury, as there were Bills given out, ſc. <hi>Six Hundred Thouſand Pounds.</hi>
                </q> And hence the <hi>Wiſe</hi> Author ſhows much of his <hi>tranſcendent Logick,</hi> in bringing this to parallel the Caſe of our Province, where we can ta<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -344,7 +345,7 @@ the common Affairs of Temporal Intereſt and Profit. D<gap reason="illegible" re
             <p>And for the Bank of <hi>New York,</hi> I have no particular Know<g ref="char:EOLhyphen"/>ledge of it, but believe what I commonly hear, that all Gen<g ref="char:EOLhyphen"/>tlemen who know their Affairs will teſtify, that their Bills are not one Jot better than ours were when of the ſame Age; and if they continue as long as ours have done, by their Ap<g ref="char:EOLhyphen"/>pearance, will be no better than ours now are.</p>
             <p>
                <hi>Rep.</hi> However dangerous you ſhow it to be, <hi>for a Country to make uſe of its Lands to ſupply itſelf with a Medium of
-<pb n="13" facs="tcp:002283_0013_0FDAE3F0B6CF9208"/>
+<pb n="13" facs="unknown:002283_0013_0FDAE3F0B6CF9208"/>
 Exchange,</hi> yet I perceive you allow that it may be done in a Caſe of Extremity. I think the Caſe of this Province is ex<g ref="char:EOLhyphen"/>tream difficult, vaſt N<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>mbers have their Lands under Mort<g ref="char:EOLhyphen"/>gages for Money taken out of the laſt Banks, who cannot get Money to redeem them. The Cry of People in the Country is, How ſhall we pay our Rates if there be no Mo<g ref="char:EOLhyphen"/>ney? And the Merchants conſtantly importune us for a fuller Supply of a <hi>Medium of Trade.</hi> We have not a ſuffici<g ref="char:EOLhyphen"/>ency of <hi>Moveables</hi> ſuitable to put in as a Fund, on which to erect a Bank of Credit; for our Silver Money is gone, and if I may believe Reports ſeemingly well aſcertain'd, our <hi>Plate</hi> is going after, on the ſame melancholly Errand; and all inſufficient too.</p>
@@ -361,7 +362,7 @@ Exchange,</hi> yet I perceive you allow that it may be done in a Caſe of Extrem
             <p>But I will firſt enter a Caveat, <hi>If you emit more Paper Money, you muſt very carefully provide for the ſupport of its Credit.</hi> I know <hi>Amicus Patriae</hi> will laugh at this, and tell us that their Credit may be kept up by the <hi>power of a</hi> Wiſe <hi>Imagination,</hi> pag 44. (Juſt like the Popiſh Doctrine of <hi>Tranſubſtantiation; Crede quod edes, et edes,</hi> ſay they.) And we may with the ſame reaſon ſay of any other of our Af<g ref="char:EOLhyphen"/>fairs, <hi>Believe that they are well, and they are and ſhall be ſo.</hi>
             </p>
             <p>And let <hi>Amicus Patriae</hi> ſay what he pleaſe about the Mer<g ref="char:EOLhyphen"/>chants ſupporting the Credit of our Bills, by willingly recei<g ref="char:EOLhyphen"/>ving and highly commending them; it is a Truth too plain to be palliated, by Fancy, That the Merchants always raiſe upon
-<pb n="14" facs="tcp:002283_0014_0FDAE3FEFAAEFEB8"/>
+<pb n="14" facs="unknown:002283_0014_0FDAE3FEFAAEFEB8"/>
 their Goods more in proportion, than other Commodities are raiſed by the plenty or meaneſs of Money. I am credibly eno<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> informed, that at the laſt Seſſions of <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -378,7 +379,7 @@ their Goods more in proportion, than other Commodities are raiſed by the plenty
             <p n="2">2. <hi>Not as the two former Banks were emitted.</hi> It is a general Cry that theſe Meaſures do and will too much intangle the prudent, and lay too great a Temptation before thoſe that want Guardians. And further,</p>
             <p n="3">3. <hi>Not to be paid in</hi> Lumber, <hi>&amp;c. to the publick.</hi> This would create ſuch a numerous ſet of Officers, as that the Stock muſt go in a great Meaſure to pay Charges. Once more,</p>
             <p n="4">4. <hi>Not as was projected in the Houſe of Repreſentatives at their laſt Seſſions,</hi> ſc. That he who took 100 <hi>l.</hi> ſhould pay 10 <hi>l.</hi>
-               <pb n="15" facs="tcp:002283_0015_0FDAE3F468EB7AA8"/>
+               <pb n="15" facs="unknown:002283_0015_0FDAE3F468EB7AA8"/>
 a Year for the ſpace of Eleven Years and then be clear; and that one Man might take out two hundred Pounds. Theſe forms were ſo ea<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap> that I (being on a Journey when the News of it came abroad, and ſeeing with what Spirit people gene<g ref="char:EOLhyphen"/>rally received it) have reaſon to think that (at leaſt in many places) the longeſt Sword would have determined who ſhould have the Money And now I come in the laſt place to give you <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -478,7 +479,7 @@ a Year for the ſpace of Eleven Years and then be clear; and that one Man might 
                <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>g the Apriſement of ſaid Lands to the Commiſſioners (who,
-<pb n="16" facs="tcp:002283_0016_0FDAE403DC8E68D8"/>
+<pb n="16" facs="unknown:002283_0016_0FDAE403DC8E68D8"/>
 generally ſpeaking, are and always muſt and will be, as to themſelves, ignorant of the true Value) at ſuch a Rate, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> the Mortgagers, inſtead of taking out but half the value, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
